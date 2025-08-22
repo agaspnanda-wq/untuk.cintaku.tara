@@ -1,10 +1,9 @@
-# untuk cintaku
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Untuk Tara - Hati Jatuh</title>
+   
     <style>
         body {
             margin: 0;
@@ -136,12 +135,12 @@
         setInterval(createFallingHeart, 100);
     </script>
 </body>
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Untuk Tara - Cintaku</title>
+    
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 
